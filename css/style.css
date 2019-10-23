@@ -9,7 +9,7 @@ h1 {
   font-family: 'Space Mono', monospace;
   font-size: 36px;
   font-weight: bold;
-  font-stretch: extended;
+  font-stretch: expanded;
 }
 table {
   margin-left:auto;
@@ -19,18 +19,17 @@ table {
   }
 thead {
   color: #FECEA8;
+  font-weight: bold;
   font-size: 24px;
-  font-stretch: extended;
+  font-stretch: expanded;
 }
 tbody {
   border: 1px solid #FCBB6D;
   border-radius: 5px;
-  padding 15px;
 }
 td {
   border: 1px solid #FCBB6D;
   border-radius: 5px;
-  padding 15px;
 }
 .attribute {
   text-align: left;
