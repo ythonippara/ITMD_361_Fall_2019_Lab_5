@@ -1,11 +1,11 @@
 body {
-  background-color: #475C7A;
+  background-color: #2A363B;
   font-family: 'Montserrat Subrayada', sans-serif;
   padding: 5%;
 }
 h1 {
   text-align: center;
-  color: #685D79;
+  color: #99B898;
   font-family: 'Space Mono', monospace;
   font-size: 36px;
   font-weight: bold;
@@ -15,7 +15,6 @@ table {
   margin-left:auto;
   margin-right:auto;
   text-align: center;
-  background-color: #4A746A;
   font-size: 16px;
   }
 thead {
@@ -37,21 +36,21 @@ tr {
   font-weight: bold;
 }
 .odd {
-  background-color: #AB6C82;
-  color: #FCBB6D;
+  background-color: #685D79;
+  color: #FECEA8;
 }
 .even {
-  background-color: #D8737F;
-  color: #FCBB6D;
+  background-color: #AB6C82;
+  color: #FECEA8;
 }
 div {
   font-style: italic;
-  color: #FCBB6D;
+  color: #99B898;
   text-align: center;
 }
 footer {
   margin-left: auto;
-  color: #FCBB6D;
+  color: #99B898;
   font-style: italic;
 }
 ul {
