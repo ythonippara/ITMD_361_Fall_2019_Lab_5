@@ -55,8 +55,10 @@ footer {
   font-style: italic;
 }
 ul {
+  text-align: center;
   list-style-type: none;
 }
 ul li{
+  text-align: center;
   display: inline-block;
 }
